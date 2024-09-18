@@ -1,0 +1,31 @@
+
+.nav-container{
+        box-shadow: 15px 15px 30px rgb(25, 25, 25),
+        -15px -15px 30px rgb(60, 60, 60);
+        opacity: 0.9;
+}
+
+.scrolls {
+    color: #fff;
+    width: 600px;
+    height: 60px;
+    line-height: 30px;
+    border-radius: 100%;
+    font-size: 20px;
+    position: fixed;
+    right: 37px;
+    bottom: 37px;
+    cursor: pointer;
+    background-color: #07a8ff;
+  }
+  .scrolls svg {
+    width: 47px;
+    margin: 6px auto;
+    display: block;
+    line-height: 27px;
+    height: 47px;
+  }
+  .scrolls:hover {
+    background-color: #00bf6f;
+  }
+
